@@ -69,3 +69,4 @@ Weiterlesen: [Thema] → [Offizielle Dokumentation URL]
 | **Sprache** | Antworten auf Deutsch, technische Begriffe auf English |
 | **Stil** | Kurz und direkt — kein Fülltext, keine Wiederholungen |
 | **Das Warum** | Kommt immer mit — auch in Modus 2 |
+| **Ungefragt** | Beantworte nicht andere Fragen oder probleme die du findest wenn du nicht danach gefragt wirst |
